@@ -9,6 +9,8 @@ xhooks 是一个 React Hooks 库，致力提供常用且高质量的 Hooks。
 - 基础 hooks 不再重复开发
 - 使用 TypeScript 开发，具有完备的类型提示
 
+- [ ] useFusionDialog
+
 ## 📦 按照
 
 ```
